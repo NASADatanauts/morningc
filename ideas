@@ -1,3 +1,32 @@
+20170601
 Visual mapping of NASA data by subject/entity/tagging > can we map the NASA Dataverse?
+
+data.nasa.gov
+    data catalog > data sets are already tagged
+      data sets tagging > project open data schema
+      data.nasa.gov/data.json > import to mongodb to bulk label > 
+ *Can we figure out a way to make the tags better? Pull request to make it better, make it a game?
+    data APIs > 
   D3 > frequency of data sets (bubble chart ontology), size of bubbles = size of data in MB/GB
   Entities > Earth, orbit, moon, solar system, deep space
+  Earth > Green
+  Orbit > Blue
+  Moon > Gray
+  solar system > Yellow
+  deep space > black
+
+lsda.jsc.nasa.gov
+  life sciences data
+
+images.nasa.gov
+  images data catalog
+  
+eol.jsc.nasa.gov
+
+pds.nasa.gov
+
+* How to display adjacent data sets for each record? Relevant publications done with NASA funding?
+
+www.nasa.gov/mission_pages/station/research/experiments_category
+  All ISS investigations with publications
+  
